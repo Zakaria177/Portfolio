@@ -12,7 +12,7 @@ const Navbar = ({ menuOpen, setMenuOpen }) => {
           {/* Logo and Name Container */}
           <a href="#home" className="flex items-center space-x-3">
             <img
-              src="/src/assets/images/409665702_2321390411394862_1191993109309894922_n.jpg"
+              src="/src/assets/images/react.svg"
               className="rounded-full w-12 h-12 object-cover border border-gray-500"
               alt="Profile"
             />
